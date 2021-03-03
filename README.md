@@ -1,6 +1,6 @@
 # How to use the Dashboard
 
-## There are 5 tabbs on the Dashboard;
+## There are 5 tabs on the Dashboard;
 
 1. Welcome tab - it plots the average sales price from 2010 to 2016 on a map. 
                  Red is the most expensive area and blue is the least expensive area.
