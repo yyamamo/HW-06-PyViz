@@ -1,6 +1,6 @@
-#How to use the Dashboard
+# How to use the Dashboard
 
-##There are 4 tabbs on the Dashboard as follows;
+## There are 4 tabbs on the Dashboard as follows;
 
 1. Neighborhood - it shows average sale price per squarefoote by each neighborhood from 2010 to 2016
 2. Yearly - it includes 3 charts which analize the data yearly basis.
