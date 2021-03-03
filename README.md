@@ -1,11 +1,11 @@
-How to use my dashboard
+###How to use my dashboard
 
-#Navigationg to the Dashboard
-## There are 4 tabbs as follows
- # Neighborhood
- # Yearly
- # Parallel
- # Sunburst
+##Navigationg to the Dashboard
+# There are 4 tabbs as follows
+# Neighborhood
+# Yearly
+# Parallel
+# Sunburst
 
 
 
