@@ -2,7 +2,7 @@
 
 ## There are 5 tabs as follows:
 
-###1. Welcome tab 
+##1. Welcome tab 
     It plots the average sales price from 2010 to 2016 on a map. Red is the most expensive area and blue is the least expensive area.
 ##2. Neighborhood tab 
     3 plots are shown in this tab.
