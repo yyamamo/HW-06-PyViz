@@ -1,4 +1,4 @@
-# How to use the Dashboard
+# About the Dashboard
 
 ## There are 5 tabs as follows:
 
