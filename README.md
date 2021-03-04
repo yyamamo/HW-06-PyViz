@@ -15,7 +15,7 @@
     It shows 2 parallel plots.
     As they are interactive plots, it flexibly shows the relations between the data sets.
 ## Sunburst tab
-
+    It shows expensive neighborhood by year
 
 
 
